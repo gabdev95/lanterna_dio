@@ -1,6 +1,6 @@
-# FlashLight 💡
+# Lanterna 🔦
 
-Desafio dio: <a href="https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/715c0f3a-9102-4887-943e-0c6156dd19a9">Construindo um app usando o sensor de movimento com React Native</a> disponibilizado pela Digital Innovation One.
+Algumas alterações do aplicativo desenvolvido durante o desafio dio <a href="https://web.dio.me/lab/construindo-um-app-usando-sensor-de-movimento-com-react-native/learning/715c0f3a-9102-4887-943e-0c6156dd19a9">Construindo um app usando o sensor de movimento com React Native</a> disponibilizado pela Digital Innovation One.
 
 #### 📌 Visualização do projeto:
 
